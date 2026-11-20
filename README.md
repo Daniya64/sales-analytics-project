@@ -20,7 +20,7 @@ Python (Pandas), PostgreSQL, Power BI, Git/GitHub
 
 ## Status
 - [x] Project setup and data exploration
-- [ ] Data cleaning
+- [x] Data cleaning
 - [ ] EDA
 - [ ] SQL analysis
 - [ ] Dashboard
